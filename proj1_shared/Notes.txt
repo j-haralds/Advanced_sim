@@ -4,7 +4,6 @@ Frågor:
 1. Spridningen på vår prediktor är kanske ngt liten? 
     Vad är rimligt? 
 
-2. Problems under the hood
-    Hur skulle vi kunna tänka för att göra likelihooden bättre? 
-    Hur ska man göra med Sigma och weightsen? 
-    
+Varför ger det ett bättre värde när vi struntar i sqrt()?
+
+Hur kan man normalisera likelihooden? 
