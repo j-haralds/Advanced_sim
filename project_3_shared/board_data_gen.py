@@ -1,5 +1,5 @@
 import numpy as np
-import board as board
+import board
 print(dir(board))
 
 n_samples = 10000
