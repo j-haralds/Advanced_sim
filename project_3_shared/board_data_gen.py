@@ -1,5 +1,6 @@
 import numpy as np
-import board
+import board as board
+print(dir(board))
 
 n_samples = 10000
 board_data = np.zeros((n_samples, 32))
